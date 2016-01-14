@@ -1,0 +1,10 @@
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\SRECCreator.Form1.resources
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\SRECCreator.Properties.Resources.resources
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\SRECCreator.csproj.GenerateResource.Cache
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\SRECCreator.Icons.resources
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\bin\Debug\HEX Creator.exe.config
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\bin\Debug\HEX Creator.exe
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\bin\Debug\HEX Creator.pdb
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\HEX Creator.exe
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\HEX Creator.pdb
+C:\Development\AdageRecycling\SRECCreator\SRECCreator\obj\Debug\SRECCreator.csprojResolveAssemblyReference.cache
